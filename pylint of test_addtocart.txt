@@ -1,0 +1,10 @@
+************* Module test_addtocart
+test_addtocart.py:11:0: C0304: Final newline missing (missing-final-newline)
+test_addtocart.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+test_addtocart.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+test_addtocart.py:11:4: W0104: Statement seems to have no effect (pointless-statement)
+test_addtocart.py:3:0: C0411: standard import "from pickle import TRUE" should be placed before "import pytest" (wrong-import-order)
+test_addtocart.py:4:0: W0611: Unused swag_labs imported from sauce_project (unused-import)
+
+------------------------------------------------------------------
+Your code has been rated at 4.55/10 (previous run: 4.55/10, +0.00)
