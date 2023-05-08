@@ -1,0 +1,15 @@
+C:\Users\dharm>python -m pylint sauce_project.py
+************* Module sauce_project
+sauce_project.py:1:11: C0303: Trailing whitespace (trailing-whitespace)
+sauce_project.py:20:0: C0301: Line too long (102/100) (line-too-long)
+sauce_project.py:23:0: C0301: Line too long (111/100) (line-too-long)
+sauce_project.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+sauce_project.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+sauce_project.py:6:0: C0115: Missing class docstring (missing-class-docstring)
+sauce_project.py:6:0: C0103: Class name "swag_labs" doesn't conform to PascalCase naming style (invalid-name)
+sauce_project.py:13:4: C0116: Missing function or method docstring (missing-function-docstring)
+sauce_project.py:20:8: W0622: Redefining built-in 'filter' (redefined-builtin)
+sauce_project.py:6:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 7.14/10 (previous run: 7.14/10, +0.00)
